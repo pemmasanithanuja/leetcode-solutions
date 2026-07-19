@@ -1,7 +1,7 @@
 # LeetCode Solutions
 This repository contains my LeetCode solutions in Python and Java.
 ## 📊 Progress
-- Total Problems Solved: 47
+- Total Problems Solved: 53
 
 ## 📚 Topics Covered
 - Arrays
